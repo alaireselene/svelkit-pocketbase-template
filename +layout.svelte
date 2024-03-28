@@ -10,8 +10,7 @@
 
 <div class="navbar bg-base-100">
 	<div class="flex-1 space-x-4">
-		<a href="/" class="btn btn-ghost text-xl">🐧 Penguin</a>
-		<a href="/contest" class="btn btn-ghost"> Kỳ thi </a>
+		<a href="/" class="btn btn-ghost text-xl">Page</a>
 	</div>
 	<div class="flex-none gap-2">
 		<div class="dropdown dropdown-end">
