@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.tips.enabled": false,
+    "svelte.enable-ts-plugin": true,
+    "npm.autoDetect": "on",
+    "npm.packageManager": "yarn"
+}

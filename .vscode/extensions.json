@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "github.copilot-chat",
+        "svelte.svelte-vscode",
+        "bradlc.vscode-tailwindcss",
+        "rangav.vscode-thunder-client",
+        "moalamri.inline-fold",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
